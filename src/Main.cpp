@@ -3,8 +3,5 @@
 
 int main(int argc, char** argv)
 {
-	arc_driver::DummyClass dummyClass;
-	dummyClass.welcome();
-
 	return 0;
 }
